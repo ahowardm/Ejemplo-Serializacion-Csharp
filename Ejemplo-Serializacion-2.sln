@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo-Serializacion-2", "Ejemplo-Serializacion-2\Ejemplo-Serializacion-2.csproj", "{F51EA562-601E-480D-892D-6DDED1BB5530}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6900EBDE-6F72-45F0-B1C5-9771AD961770}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F51EA562-601E-480D-892D-6DDED1BB5530}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F51EA562-601E-480D-892D-6DDED1BB5530}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F51EA562-601E-480D-892D-6DDED1BB5530}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F51EA562-601E-480D-892D-6DDED1BB5530}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
